@@ -1,5 +1,6 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research: Assessment 1"
+author: "Aseem Anand"
 output: 
   html_document:
     keep_md: true
