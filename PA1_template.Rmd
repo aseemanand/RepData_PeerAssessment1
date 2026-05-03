@@ -1,9 +1,6 @@
 ---
 title: "Reproducible Research: Assessment 1"
 author: "Aseem Anand"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ```{r setup, include = FALSE}
